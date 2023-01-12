@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nikolaik
+- 👀 I’m interested in Python, DX, code quality and automation.
+- 🌱 I’m currently learning golang.
+- 📫 Reach me [@nikolaik on Twitter](https://twitter.com/nikolaik)
